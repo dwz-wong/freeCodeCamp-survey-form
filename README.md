@@ -1,5 +1,7 @@
 # freeCodeCamp - Build a Survey Form
 
+**Objective**: Build an app that is functionally similar to [https://survey-form.freecodecamp.rocks](https://survey-form.freecodecamp.rocks)
+
 This is a solution for the [Build a Survey Form project on freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/). 
 
 ## Table of Contents
