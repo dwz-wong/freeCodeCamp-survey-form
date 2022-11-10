@@ -8,7 +8,7 @@ This is a solution for the [Build a Survey Form project on freeCodeCamp Responsi
 
 - [Overview](#overview)
     - [Screenshot](#screenshot)
-    - [Links]()
+    - [Links](#links)
 - [My Process](#my-process)
     - [Built with](#built-with)
 - [Author](#author)
